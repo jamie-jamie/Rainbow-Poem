@@ -1,2 +1,2 @@
 # Rainbow-Poem
-Following The Coding Train: "Git anf Github 
+Following The Coding Train: "Git and Github 
